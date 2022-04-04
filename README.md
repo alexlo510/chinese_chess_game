@@ -1,1 +1,1 @@
-# chinese_chess_game
+A command line chinese chess game created for CS162
